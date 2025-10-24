@@ -6,6 +6,7 @@
 .grid-container>div{
      font-size:28px;
      background-color:#230347;
+     height: 50h;
 }
 
 .grid-container{
@@ -87,12 +88,13 @@ a{
       position: absolute;
      bottom:95px;
       margin-left: 57%;
-      width: 415px;
-      height: 415px;
+      width: 435px;
+      height: 435px;
       border-radius: 60%;
       padding: 145px;
 
 }
+
 
 .text-section li {
      position:absolute;
@@ -135,8 +137,7 @@ p{
      margin-top: 0px; 
      border: 8px solid  #09B5FF;
      background-color: #613d8b;
-    
-     width: 98.7%;
+     width: 98.9%;
      height: 5vh;
 
 }
