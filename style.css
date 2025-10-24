@@ -131,12 +131,13 @@ p{
      
 }
     
-.border {  
+.footer {  
      grid-column: 1/11;
      margin-top: 0px; 
-     border: 10px solid  #09B5FF;
+     border: 8px solid  #09B5FF;
      background-color: #613d8b;
-     padding:17px;
-     width: 96.5%;
+    
+     width: 98.7%;
+     height: 5vh;
 
 }
